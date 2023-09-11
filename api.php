@@ -12,8 +12,8 @@
     $current_utc_time = gmdate('Y-m-d\TH:i:s\Z', time());
     
     // Define GitHub repository and file URLs
-    $github_file_url = 'https://github.com/rahmanakorede442/hng_api_one/blob/master/api.php';
-    $github_repo_url = 'https://github.com/rahmanakorede442/hng_api_one';
+    $github_file_url = 'https://github.com/oladipupolamina/hng_task_stage_1/blob/main/api.php';
+    $github_repo_url = 'https://github.com/oladipupolamina/hng_task_stage_1';
     
     // Create the response array
     $response = [
